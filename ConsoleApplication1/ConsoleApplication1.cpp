@@ -8,7 +8,7 @@ int main()
 {fgfg
 gh
 titi
-JINNE
+hjg
     std::cout << "Hello World!\n";
 }
 
